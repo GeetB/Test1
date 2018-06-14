@@ -1,2 +1,2 @@
 This is file 2
-New line added in file 2
+Line added in file 2
